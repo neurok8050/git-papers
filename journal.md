@@ -1,5 +1,5 @@
 # This my super paper from GitHub
-My affiliation UdeM
+written by me
 
 written only by me
 
