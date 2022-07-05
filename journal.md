@@ -1,7 +1,7 @@
 # This my super paper from GitHub
 written by me
+My affiliation UdeM and McGill.
 
-written only by me
 
 This is a super problem that we have to investigate.
 
